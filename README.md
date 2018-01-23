@@ -1,2 +1,3 @@
 # hello-world
-My Git Tutorial Repository
+
+Now I am a Git Wizard!
